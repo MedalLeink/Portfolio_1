@@ -8,8 +8,8 @@
 }
 
 body {
-    background: #1f242d;
-    color: #fff;
+    background: #E9ECEF;
+    color: #003366;
 }
 
 header {
@@ -27,7 +27,7 @@ header {
 
 .logo {
     font-size: 25px;
-    color: #fff;
+    color: #003366;
     text-decoration: none;
     font-weight: 600;
     cursor: default;
@@ -48,7 +48,7 @@ header {
 
 .navbar a:hover, 
 .navbar a.active {
-    color: #0ef;
+    color: #FF8C00;
 }
 
 .home {
@@ -74,7 +74,7 @@ header {
 }
 
 .home-content h3 span {
-    color: #0ef;
+    color: #FF8C00;
 }
 
 .home-content h3:nth-of-type(2) {
@@ -112,10 +112,10 @@ header {
     background: transparent;
     height: 40px;
     width: 40px;
-    border: 2px solid #0ef;
+    border: 2px solid #FF8C00;
     border-radius: 50px;
     font-size: 20px;
-    color: #0ef;
+    color: #FF8C00;
     justify-content: center;
     align-items: center;
     text-decoration: none;
@@ -127,19 +127,19 @@ header {
 }
 
 .social-media a:hover {
-    background: #0ef;
+    background: #FF8C00;
     color: #1f242d;
-    box-shadow: 0 0 20px #0ef;
+    box-shadow: 0 0 20px #FF8C00;
 }
 
 .btn {
     display: inline-block;
     padding: 12px 28px;
-    background: #0ef;
+    background: #FF8C00;
     border-radius: 40px;
-    box-shadow: 0 0 10px #0ef;
+    box-shadow: 0 0 10px #f1a950;
     font-size: 16px;
-    color: #1f242d;
+    color: #fff;
     text-decoration: none;
     letter-spacing: 1px;
     font-weight: 600;
